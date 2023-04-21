@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- *main - Prints all possible combination of a pair of two digit numbers, without any repitition.
+ *main - Prints all possible combination of a pair of
+ * two digit numbers, without any repitition.
  *
  * Return: 0 on (success)
  */
